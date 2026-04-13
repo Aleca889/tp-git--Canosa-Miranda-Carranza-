@@ -5,6 +5,7 @@ No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -13,3 +14,7 @@ No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
 Aleca se quiere matar pq le ree cuesta git.
 ayuda porfavor
 Me rindo
+=======
+Me sirve mucho porque ahora tengo un gatito.
+
+>>>>>>> 6103be24872094a865f312e3a5da2b7c5d4edac1
