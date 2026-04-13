@@ -13,3 +13,6 @@ No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
 Aleca se quiere matar pq le ree cuesta git.
 ayuda porfavor
 Me rindo
+Soy Mir (Miranda) y me gusta mucho este proyecto.
+
+
