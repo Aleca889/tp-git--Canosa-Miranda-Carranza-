@@ -5,3 +5,4 @@ No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
 
 Soy Mir (Miranda) y me gusta mucho este proyecto.
 Me comprometo a trabajar en este proyecto cueste lo que cueste.
+Me sirve mucho porque ahora tengo un gatito.
