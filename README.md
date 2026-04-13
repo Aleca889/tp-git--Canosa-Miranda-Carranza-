@@ -2,3 +2,13 @@
 
 Proyecto de Aleca: La idea principal es hacer un collar GPS para gatos.
 No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
+
+
+
+
+
+
+
+
+Aleca se quiere matar pq le ree cuesta git.
+
