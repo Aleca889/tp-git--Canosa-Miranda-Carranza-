@@ -2,3 +2,7 @@
 
 Proyecto de Aleca: La idea principal es hacer un collar GPS para gatos.
 No uno convencional, uno mejor, mas chico, y con ciertas funcionalidades.
+
+Soy Mir (Miranda) y me gusta mucho este proyecto.
+
+
